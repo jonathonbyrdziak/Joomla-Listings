@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="New item posting page">
+		<message>
+			<![CDATA[First page to the item posting process.]]>
+		</message>
+	</layout>
+	<state>
+		<name>New item posting page</name>
+		<description>First page to the item posting process.</description>
+        <url>
+
+        </url>
+		<params>
+
+		</params>
+		<advanced>
+
+		</advanced>
+	</state>
+</metadata>

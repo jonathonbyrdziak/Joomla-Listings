@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="reservation Default Layout">
+		<message>
+			<![CDATA[RESERVATION DEFAULT LAYOUT DESCRIPTION]]>
+		</message>
+	</layout>
+	<state>
+		<name>reservation Default Layout</name>
+		<description>Reservation DEFAULT LAYOUT DESCRIPTION</description>
+        <url>
+
+        </url>
+		<params>
+
+		</params>
+		<advanced>
+
+		</advanced>
+	</state>
+</metadata>

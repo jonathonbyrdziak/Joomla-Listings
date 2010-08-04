@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="My Account Homepage for listings">
+		<message>
+			<![CDATA[Partial integration with the social community]]>
+		</message>
+	</layout>
+	<state>
+		<name>My Account Homepage for listings</name>
+		<description>Partial integration with the social community</description>
+        <url>
+
+        </url>
+		<params>
+
+		</params>
+		<advanced>
+
+		</advanced>
+	</state>
+</metadata>
